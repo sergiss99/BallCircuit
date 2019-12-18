@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd75e0c3-28d7-4b84-9360-ce6ac716e1d5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Volcan.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Explosion.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CubeUp.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Bombona.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Moves.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Music.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Finish.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraFollow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Impulse.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ImpulseTo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Volcano.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CubeUp.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Volcan.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Moves.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Music.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Finish.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Explosion.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Bombona.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UCOTTKqtQbT6kOhjOIu8QhiZBQ" />
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="SolutionBuilderGeneralOptionsPageId" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd75e0c3-28d7-4b84-9360-ce6ac716e1d5" name="Default Changelist" comment="" />
+      <created>1574857118766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574857118766</updated>
+      <workItem from="1574868180646" duration="542000" />
+      <workItem from="1576074187104" duration="772000" />
+      <workItem from="1576075172970" duration="403000" />
+      <workItem from="1576075688102" duration="44000" />
+      <workItem from="1576174525261" duration="801000" />
+      <workItem from="1576342204564" duration="1560000" />
+      <workItem from="1576344165701" duration="279000" />
+      <workItem from="1576344468395" duration="115000" />
+      <workItem from="1576344606782" duration="59000" />
+      <workItem from="1576344758199" duration="858000" />
+      <workItem from="1576345800249" duration="34000" />
+      <workItem from="1576346180383" duration="1978000" />
+      <workItem from="1576507231924" duration="180000" />
+      <workItem from="1576516468285" duration="90000" />
+      <workItem from="1576582841155" duration="491000" />
+      <workItem from="1576583380120" duration="1015000" />
+      <workItem from="1576602708349" duration="1021000" />
+      <workItem from="1576603859534" duration="65000" />
+      <workItem from="1576604102110" duration="1178000" />
+      <workItem from="1576605867055" duration="911000" />
+      <workItem from="1576606823139" duration="627000" />
+      <workItem from="1576690018824" duration="160000" />
+      <workItem from="1576691345376" duration="14000" />
+      <workItem from="1576691568889" duration="906000" />
+      <workItem from="1576694056769" duration="15000" />
+      <workItem from="1576694921631" duration="81000" />
+      <workItem from="1576695496753" duration="22000" />
+      <workItem from="1576704899716" duration="441000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
