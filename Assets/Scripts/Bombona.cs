@@ -25,7 +25,6 @@ public class Bombona : MonoBehaviour
 	{
 		if (collision.gameObject.tag == "Player")
 		{
-			Explosion.PlayExplosion();
 			Instantiate(explosion, transform.position, Quaternion.identity);
         	Destroy(gameObject);
 			

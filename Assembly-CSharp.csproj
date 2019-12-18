@@ -60,7 +60,6 @@
     <Compile Include="Assets\Scripts\Bombona.cs" />
     <Compile Include="Assets\Scripts\CameraFollow.cs" />
     <Compile Include="Assets\Scripts\CubeUp.cs" />
-    <Compile Include="Assets\Scripts\Explosion.cs" />
     <Compile Include="Assets\Scripts\Finish.cs" />
     <Compile Include="Assets\Scripts\Moves.cs" />
     <Compile Include="Assets\Scripts\Music.cs" />
